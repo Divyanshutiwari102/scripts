@@ -5,7 +5,9 @@ eg.
 ./backup.dh <source> <dest>
 
 info
-
+<<help
+This is can also we perform using the cron-tab
+help
 src=$1
 dest=$2
 
